@@ -9,7 +9,6 @@ public class Main {
         System.out.println("Hello world!");
 
         try {
-
             // Ensuring the endpoint URL ends with a slash for proper concatenation
             String OM_BASE_URL = System.getenv("OM_BASE_URL");
 
