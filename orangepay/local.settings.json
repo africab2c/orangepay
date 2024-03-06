@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "OM_BASE_URL": "https://api.sandbox.orange-sonatel.com/",
+    "ORANGE_MONEY_CLIENT_ID": "1035f697-feb1-4da8-9d37-6e730dadec76",
+    "ORANGE_MONEY_CLIENT_SECRET": "0ca67fa9-032e-4f60-aa52-1f64f6119aca"
+  }
+}
