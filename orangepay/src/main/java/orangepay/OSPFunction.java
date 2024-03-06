@@ -17,7 +17,7 @@ public class OSPFunction {
     private static final ObjectMapper objectMapper = new ObjectMapper();
     private static final OrangeMoneyApi orangeMoneyApi = new OrangeMoneyApi();
 
-    @FunctionName("processOneStepPayment")
+    @FunctionName("OneStepPayment")
     public HttpResponseMessage processOneStepPayment(
             @HttpTrigger(name = "req",
                          methods = {HttpMethod.POST},
